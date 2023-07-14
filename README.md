@@ -6,4 +6,4 @@
 5. Transformation and action
 6. DAG and Lazy Evalutation
 7. Spark sql engine
-8. 
+8. Spark RDD
